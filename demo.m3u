@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PY: TELEFUTURO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TelefuturoLogo2022.png/640px-TelefuturoLogo2022.png" group-title="PARAGUAY",PY: ABC TV
+#EXTINF:-1 PY: TELEFUTURO
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TELEFUTURO)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PY: GEN" tvg-logo="https://lanacionpy.nyc3.cdn.digitaloceanspaces.com/img/gen/gen.jpg" group-title="PARAGUAY",PY: ABC TV
+#EXTINF:-1 PY: GEN
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GEN_TV)/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="PY: C9N" tvg-logo="https://i0.wp.com/logoroga.com/wp-content/uploads/2017/10/C9N-VistaPrevia.png?fit=1000%2C1000&ssl=1" group-title="PARAGUAY",PY: ABC TV
+#EXTINF:-1 PY: C9N
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(C9N)/index.m3u8
